@@ -1,7 +1,3 @@
-Understood — no placeholders, no fluff. Here's a **stripped-down, no-BS version of the `README.md`** for the `@codeforgood` GitHub organization, with **only what's factual and verifiable from the repos themselves**.
-
----
-
 # Code for Good
 
 **Code for Good** is a GitHub organization focused on building open-source tools that solve real problems for people, communities, and causes.
