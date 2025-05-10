@@ -42,8 +42,6 @@ We don’t do Discord, Slack, or fake community pages. If you want to talk, open
 
 ---
 
-**That’s it. No fake links. No empty promises. Just code.**
-
 ---
 
 Let me know if you want a badge set, project table, or per-repo summaries next.
